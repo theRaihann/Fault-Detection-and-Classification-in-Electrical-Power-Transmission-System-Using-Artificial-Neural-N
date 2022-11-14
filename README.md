@@ -10,4 +10,5 @@ For generating data, a small power system has been simulated with one transmissi
 Simulink, MATLAB. Various types of faults have been introduced at different locations on the 
 transmission line for some electrical cycles and instantaneous data has been used to produce datasets.
 
-To know more: 
+To know more: https://github.com/theRaihann/Fault-Detection-and-Classification-in-Electrical-Power-Transmission-System-Using-Artificial-Neural-N/blob/8be1b4965726e3a4be6b76af521cd4477ea0dfee/PROJECT-REPORT.pdf
+
